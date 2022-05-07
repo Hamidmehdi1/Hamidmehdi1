@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamidmehdi1 and Ph.D Student in computer Science.
+- 👋 Hi, I’m @Hamidmehdi1 and Ph.D in computer Science.
 - 👀 I’m interested in Data Science (DS).
 - 🌱 I’m currently learning and doing data science.
 - 💞️ I’m looking to collaborate on data science.
